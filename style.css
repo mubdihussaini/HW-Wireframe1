@@ -22,7 +22,7 @@ header {
 section { background-color: #ccc;
 	padding: 40px;
 	margin-bottom: 20px;
-  margin: 20px;
+  margin: 10px 0px;
   width: 100%;
 
 }
@@ -42,7 +42,7 @@ nav {
 
 
 #division {padding: 20px;
-  margin: 20px;
+  margin: 10px 10px 10px 0px;
   height: 160px;
    border-width: 2px;
    border:3px;
@@ -52,8 +52,7 @@ nav {
 
 aside {padding: 20px;
 	width: 50%;
-  margin-bottom: 20px;
-  margin-left: 20px;
+  margin: 10px 10px 0px 0px;
   height: 70%;	
   float: left;
   background-color: #ebebeb;
@@ -66,13 +65,14 @@ footer {padding: 20px;
   background-color:  #ccc;
 }
 article{ background-color: #d7d7e2;
+	margin: 10px 0px ;
 
 }
 
 p{
 	padding-top: 10px;
-	margin-top: 10px;
-	margin
+	
+	margin: 10px 0px ;
 	background-color: white; 
 }
 #h1{
